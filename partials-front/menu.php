@@ -18,7 +18,7 @@
         <div class="container">
             <div class="logo">
                 <a href="index.php" title="Logo">
-                    <img src="images/krusty.png" alt="Restaurant Logo" class="img-responsive">
+                    <img src="images/krusty.jfif" alt="Restaurant Logo" class="img-responsive">
                 </a>
             </div>
 
