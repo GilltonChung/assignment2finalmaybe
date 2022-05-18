@@ -4,7 +4,7 @@
 
 
     //Create Constants to Store Non Repeating Values
-    define('SITEURL', 'https://gilltonassignment2.azurewebsites.net');
+    define('SITEURL', 'https://gilltonassignment2.azurewebsites.net/');
     //define('LOCALHOST', 'localhost');
     //define('DB_USERNAME', 'root');
     //define('DB_PASSWORD', '');
