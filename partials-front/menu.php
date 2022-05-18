@@ -17,8 +17,8 @@
     <section class="navbar">
         <div class="container">
             <div class="logo">
-                <a href="#" title="Logo">
-                    <img src="images/ordersta.png" alt="Restaurant Logo" class="img-responsive">
+                <a href="index.php" title="Logo">
+                    <img src="images/krusty.png" alt="Restaurant Logo" class="img-responsive">
                 </a>
             </div>
 
